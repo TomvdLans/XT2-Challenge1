@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="SpaceX dashboard">
+    <meta name="keywords" content="School, Challenge">
+    <meta name="author" content="Tom">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css?family=Cairo:300,400,600,700,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <nav>
+      <figure><img src="images/spacexhealth.png" alt="spaceX logo"></figure>
+      <ul>
+        <li><a href="index.html"><button>Dag</button></a></li>
+        <li><a href="maand.html"><button>Maand</button></a></li>
+        <li><a href="#"><button id="active">Jaar</button></a></li>
+      </ul>
+    </nav>
+    
+    <main>
+      <section>
+        <h2>Jaar:</h2>
+        <ul>
+          <h3>Beweging</h3>
+          <li><strong>Afstand gelopen:</strong><span class="right"> 2.353 km</span></li>
+          <li><strong>Caloriën verbrand:</strong><span class="right"> 124.320 kcal</span></li>
+          <h3>Hartslag</h3>
+          <li><strong>Gemiddelde hartslag:</strong><span class="right"> 80 bpm</span></li>
+          <h3>Stress</h3>
+          <li><strong>Gemiddelde stressniveau:</strong><span class="right"> 3</span></li>
+        </ul>
+      </section>
+
+      <section class="diagram" id="dia1">
+        <canvas id="hartslag"></canvas>
+      </section>
+  
+      <section class="diagram" id="dia2">
+        <canvas id="stress"></canvas>
+      </section>
+
+      <section class="diagram" id="dia3">
+        <canvas id="activiteiten"></canvas>
+      </section>  
+    </main>
+    
+    
+
+  </body>
+</html>

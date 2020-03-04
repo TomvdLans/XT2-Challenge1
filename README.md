@@ -1,6 +1,7 @@
 # XT2-Challenge1
 
-- SpaceX health app -
+- SpaceX health app
+
 Een reis naar Mars zal naar verwachting 8 maanden duren. Veel mensen die betrokken zijn met ruimtereizen vinden dit te lang, daarom zal
 de gezondheid van de passagiers goed bijgehouden moeten worden. De SpaceX health applicatie helpt reizigers van de ITS en personeel van 
 spaceX op aarde, om de gezondheid van de passagiers te monitoren. Belangerijke aspecten van het lichaam zoals onder andere de hartslag en 
@@ -9,7 +10,8 @@ op het schip worden bijgehouden om het lichaam en de geest van de reizigers gezo
 
 
 
-- Werkproces -
+- Werkproces
+
 Ik ben begonnen met het maken van schetsen op papier en wireframes in Figma (zie afbeeldingen in images folder). Inspiratie heb ik 
 opgedaan op onder andere Dribble.com en afbeeldingen van gezondheid gerelateerde apps. Hierna ben ik aan de slag gegaan met coderen.
 

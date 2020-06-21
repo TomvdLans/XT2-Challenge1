@@ -4,6 +4,11 @@
 
 Het is 2030. 103 mensen betaalden $200.000 voor een kaartje om naar Mars te reizen en Elon Musk vroeg de Haagse Hogeschool om te helpen. De ITS is een prachtig ruimteschip, maar mist nog enkele van de noodzakelijke tools voor de reis. Men mist nog een overzicht om de data die deze reis verzameld wordt te tonen.
 
+Ontwerp en maak een responsive dashboard die in het ruimtevaartuig moet worden gebruikt. Het
+doel van het dashboard is om informatie over de reis te geven en reizigers voor te bereiden op
+aankomende aankomst op Mars.
+
+
 **Oplossing**
 
 SpaceX health app
